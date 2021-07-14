@@ -2,7 +2,6 @@
 ## Tabla de Contenidos
 1. [Información General](#informacion-general)
 2. [Carpetas y Archivos](#carpetas-y-archivos)
-***
 ## Información General
 Este es un repositorio para el caso 2 del administración de datos, el cual consta de 3 carpetas principales.
 ## Carpetas y Archivos
