@@ -5,7 +5,6 @@
 ***
 ## Información General
 Este es un repositorio para el caso 2 del administración de datos, el cual consta de 3 carpetas principales.
-***
 ## Carpetas y Archivos
 ### datos procesados
 En esta carpeta se encuentra una subcarpeta llamada users, y un archivo .csv llamado info de videos.
